@@ -1,8 +1,8 @@
-## hey, i'm rahul 👋
+## hey, i'm Rahul  👋
 
 i'm a developer from india who's obsessed with the intersection of **AI** and **finance**. i spend most of my time building things that either trade smarter or help people navigate their careers using AI.
 
-right now, i'm deep into quantitative development — building order matching engines, exploring reinforcement learning for trading strategies, and working with LLMs to automate things that shouldn't take humans hours to do.
+right now, i'm deep into quantitative development -building order matching engines, exploring reinforcement learning for trading strategies, and working with LLMs to automate things that shouldn't take humans hours to do.
 
 ```
    what gets me out of bed:
