@@ -1,27 +1,42 @@
-## hey, i'm Rahul  👋
+## hey, i'm rahul 👋
 
-i'm a developer from india who's obsessed with the intersection of **AI** and **finance**. i spend most of my time building things that either trade smarter or help people navigate their careers using AI.
+i'm a developer and researcher from india obsessed with the intersection of **Machine Learning** and **Quantitative Finance**. i build intelligent systems, from low-latency trading engines to deep learning models for healthcare and agriculture.
 
-right now, i'm deep into quantitative development -building order matching engines, exploring reinforcement learning for trading strategies, and working with LLMs to automate things that shouldn't take humans hours to do.
+right now, i'm actively seeking **foreign research internships, company internships, and remote opportunities** where i can contribute to applied AI, quantitative research, or scalable software engineering.
 
-```
+```text
    what gets me out of bed:
-   ├── making machines understand markets
-   ├── building tools that actually solve problems
-   └── breaking things, then fixing them better
+   ├── making machines understand markets (quant finance)
+   ├── building ML tools that solve real-world problems
+   └── conducting research that pushes boundaries
 ```
 
 ---
 
-### what i've been building
+### 💼 experience & research
 
-**[careerforge-ai](https://github.com/rahul20805/careerforge-ai)** — an AI platform that analyzes resumes and creates personalized career roadmaps. built it because career advice shouldn't cost ₹50k/hour. uses LLMs under the hood for skill extraction and job matching. → [try it live](https://careerforge-ai-rrea.vercel.app)
+**Machine Learning Intern @ Physio Samarth** ([physiosamarth.com](https://physiosamarth.com/))
+- Building intelligent machine learning solutions for physiotherapy and healthcare.
 
-**[limit-order-booking](https://github.com/rahul20805/limit-order-booking)** — a limit order book engine in python. price-time priority matching, real-time depth tracking. my attempt at understanding how exchanges actually work at the system level.
+**Machine Learning Researcher @ IIT BHU**
+- Conducting research and developing ML models.
+
+**Research Intern @ IIT Tirupati**
+- Working on the digitization and analysis of Indic palm leaf manuscripts using deep learning and computer vision. *(See the `palm_leaf_analysis` project below)*
+
+---
+
+### 🛠️ what i've been building
+
+**[careerforge-ai](https://github.com/rahul20805/careerforge-ai)** — an AI platform that analyzes resumes and creates personalized career roadmaps. uses LLMs under the hood for skill extraction and job matching. → [try it live](https://careerforge-ai-rrea.vercel.app)
+
+**[limit-order-booking](https://github.com/rahul20805/limit-order-booking)** — a limit order book engine in python. price-time priority matching, real-time depth tracking. exploring the core systems behind quantitative trading.
+
+**[ezy1final](https://github.com/rahul20805/ezy1final)** — EZY, a full-stack service and e-commerce platform built with modern web technologies (TypeScript, React).
+
+**[palm_leaf_analysis](https://github.com/rahul20805/palm_leaf_analysis)** — CNN-based disease detection for palm leaves. trained a classification model to identify diseases early. (Connected to my research at IIT Tirupati).
 
 **[ai-prep-mentor](https://github.com/rahul20805/ai-prep-mentor)** — interview prep tool that generates questions based on your target role and gives you AI feedback. built with next.js and typescript. → [try it live](https://ai-prep-mentor-frontend.vercel.app)
-
-**[palm_leaf_analysis](https://github.com/rahul20805/palm_leaf_analysis)** — CNN-based disease detection for palm leaves. trained a classification model to identify diseases early — turns out computer vision + agriculture is a seriously underrated combination.
 
 **[doc-automation](https://github.com/rahul20805/doc-automation)** — automated document processing pipeline. because nobody should spend 3 hours formatting the same report every week.
 
@@ -29,36 +44,37 @@ right now, i'm deep into quantitative development -building order matching engin
 
 ---
 
-### tools i work with
+### 💻 stack & tools
 
 **languages:** python, typescript, javascript, sql
-
-**ai/ml:** pytorch, tensorflow, scikit-learn, langchain, hugging face, openai api
-
-**web:** react, next.js, node.js, tailwind css
-
-**other stuff:** git, docker, vercel, linux, n8n, postgresql
+**ai/ml:** pytorch, tensorflow, scikit-learn, langchain, hugging face, openai api, computer vision
+**web & backend:** react, next.js, node.js, tailwind css, postgresql
+**infra & tools:** git, docker, vercel, linux, n8n
 
 ---
 
-### what i'm looking for
+### 🎯 looking for opportunities
 
-i'm actively looking for **international internship opportunities** — remote or on-site — in AI/ML engineering, quantitative development, or full-stack roles. i'm particularly interested in teams working on applied AI, trading systems, or developer tools.
+i'm actively seeking **international internships (research or industry)** in:
+- **Machine Learning & AI** (Applied ML, Computer Vision, LLMs)
+- **Quantitative Finance** (Algorithmic Trading, Quant Dev)
+- **Software Engineering** (Backend, Full-stack)
 
-if you're building something interesting, i'd love to hear about it.
+if your team is working on complex, interesting problems, i'd love to connect.
 
 ---
 
-### reach me
+### 📫 reach me
 
 - **email:** [rahul20806@gmail.com](mailto:rahul20806@gmail.com)
 - **linkedin:** [rahulanantyadav](https://www.linkedin.com/in/rahulanantyadav)
 - **twitter/x:** [@author_anant](https://x.com/author_anant)
+- **portfolio:** [authoranantyadav](https://github.com/rahul20805/authoranantyadav)
 
 ---
 
 <details>
-<summary>some github stats, because why not</summary>
+<summary>⚡ github stats</summary>
 <br/>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rahul20805&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" width="48%" />
