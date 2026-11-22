@@ -1,4 +1,4 @@
-## hey, i'm rahul 👋
+## hey, i'm priyanshu 👋
 
 i'm a developer and researcher from india obsessed with the intersection of **Machine Learning** and **Quantitative Finance**. i build intelligent systems, from low-latency trading engines to deep learning models for healthcare and agriculture.
 
